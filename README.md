@@ -23,20 +23,20 @@ Please follow the below steps to run this project:
    ```bash
    git clone https://github.com/Shksaadd07/rcoeprj-83-1206-1363-group4.git
    cd rcoeprj-83-1206-1363-group4
-2. Install Dependencies Make sure you have Node.js and npm installed.
-   npm install
+2. **Install Dependencies Make sure you have Node.js and npm installed.**
+      '''npm install
    
-3. Run the Application
-   npm start
+3. **Run the Application**
+      npm start
   
-   Subject Details
+   #Subject Details
 Class: TE (COMP) Div A - 2024-2025
 
 Subject: Mini Project: 2A (MP2A(P)(2019))
 
 Project Type: Mini Project
 
-Platform, Libraries and Frameworks Used
+#Platform, Libraries and Frameworks Used
     Node.js
     
    Express.js
@@ -57,7 +57,7 @@ Platform, Libraries and Frameworks Used
     
   NodeMCU ESP8266
 
-References
+#References
     
    IJERT – Smart LPG Monitoring
     
