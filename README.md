@@ -24,43 +24,45 @@ Please follow the below steps to run this project:
    git clone https://github.com/Shksaadd07/rcoeprj-83-1206-1363-group4.git
    cd rcoeprj-83-1206-1363-group4
 2. **Install Dependencies Make sure you have Node.js and npm installed.**
-      '''npm install
+   ```bash
+      npm install
    
 3. **Run the Application**
+   ```bash
       npm start
   
-   #Subject Details
+## Subject Details
 Class: TE (COMP) Div A - 2024-2025
 
 Subject: Mini Project: 2A (MP2A(P)(2019))
 
 Project Type: Mini Project
 
-#Platform, Libraries and Frameworks Used
+## Platform, Libraries and Frameworks Used
     Node.js
     
-   Express.js
+    Express.js
     
-   TensorFlow.js
+    TensorFlow.js
     
-   MongoDB
+    MongoDB
     
-   Firebase (for app notifications)
+    Firebase (for app notifications)
     
-  Twilio API (for SMS alerts)
+    Twilio API (for SMS alerts)
     
-  IoT Components:
+## IoT Components:
     
-   Load Cell with HX711
+    Load Cell with HX711
     
-   MQ-2 Gas Sensor
+    MQ-2 Gas Sensor
     
-  NodeMCU ESP8266
+    NodeMCU ESP8266
 
-#References
+## References
     
-   IJERT – Smart LPG Monitoring
+    IJERT – Smart LPG Monitoring
     
-  IJPRSE – IoT LPG Booking and Leak Detection
+    IJPRSE – IoT LPG Booking and Leak Detection
     
-  JES – IoT Customer Service and Alarm System
+    JES – IoT Customer Service and Alarm System
